@@ -18,4 +18,6 @@ elif convert == "Kilometers":
     ori_kilometers = float(input("How many kilometers? "))
     new_miles = ori_kilometers / 1.609
     print(round(new_miles, 1), "Miles")
-    
+else:
+    print("Invalid conversion type. Please choose from Fahrenheit, Celsius, Miles, or Kilometers.")
+
