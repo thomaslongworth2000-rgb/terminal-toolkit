@@ -1,0 +1,6 @@
+{
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "chat.disableAIFeatures": false,
+    "chat.editor.copilotCli.hideExtensionHost": false
+}
