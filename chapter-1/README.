@@ -1,0 +1,24 @@
+# Terminal ToolKit
+
+This is the bear essentials to learn when working in python3, it helps understand not only the terminology but also the layout, thinking and work that go into the code.
+
+## What it does
+- Feature one
+useful files for basics
+- Feature two
+learn how to write the basics
+
+## Running it
+
+    git clone github.com:thomaslongworth2000-rgb/terminal-toolkit.git
+    cd project
+    python3 -m venv .venv
+    source .venv/bin/activate
+    pip install -r requirements.txt
+    python3 main.py
+
+## What I learned
+i learned a lot with these exersises, like how to properly name variables and when to use certain commands. i struggled a lot with starting the code and how to attack the task but i feel this will come with experiance.
+
+## What I'd do differently
+what i'd do differently is to make the code more efficient first time round, as im not familiar with everything yet i know that there is easier ways to do things that i wouldnt fully comorihend yet so best to know th ebasics first but if i were to wite these cmmands again i would look at making them more tactile. 
