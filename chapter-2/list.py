@@ -1,10 +1,23 @@
-shopping = ["milk", "bread", "eggs"]
+rent = 1200
+utilities = 300
+groceries = 400
+transportation = 150
+entertainment = 200 
 
-print(shopping[0])        # milk — counting starts at 0
-print(len(shopping))      # 3
+expenses = {
+	"rent": rent,
+	"utilities": utilities,
+	"groceries": groceries,
+	"transportation": transportation,
+	"entertainment": entertainment,
+}
 
-shopping.append("cheese") # add to the end
-shopping.remove("bread")  # take one out
+going_out = 100
+expenses["going out"] = going_out
 
-for item in shopping:
-    print(item)
+print("Expenses List:", list(expenses.keys()))
+
+sum_expenses = sum(expenses.values())
+
+print("Total Expenses:", sum_expenses)
+
