@@ -1,0 +1,22 @@
+# Expense Tracker
+This script is for making a lost of expenses and calling pre written fucntions to be able to sort all the data within the list and filter what you need from it.
+
+## What it does
+- creates and saves an ammendable list
+- can filter through the data within the list for ease of use and readability
+
+## Running it
+
+    git clone git@github.com:thomaslongworth2000-rgb/terminal-toolkit.git
+    cd project
+    python3 -m venv .venv
+    source .venv/bin/activate
+    pip install -r requirements.txt
+    python3 main.py
+
+## What I learned
+I learned about using dictionaries and schemas and how they work by saving data within certain catagoies and schema is the shape of the data, like. standardisation of its input. 
+What i found hard about this task is to comprehend serilisation and deserilisation but this can be worked on and developed with time.
+
+## What I'd do differently
+i would do differently would be to make sure that the inputted date is returned with a definite error message if it is not imputted in the correct manner. 
