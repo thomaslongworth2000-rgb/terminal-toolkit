@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Coffee",
+    "amount": 5.5,
+    "category": "Food",
+    "date": "2026-09-21T00:00:00+00:00"
+  },
+  {
+    "description": "rent",
+    "amount": 2000.0,
+    "category": "bills",
+    "date": "2026-09-21T00:00:00+00:00"
+  }
+]
